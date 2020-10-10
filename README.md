@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [Portfolio](http://tery.great-site.net)
+- 👨‍💻 All of my projects are available at [Portfolio](https://web-portfolio-igornazarov.netlify.app)
 
 - 📫 How to reach me **grizley.tery@gmail.com**
 
