@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Igor Nazarov</h1>
-<h3 align="center">A Junior frontend developer from Belarus</h3>
+![github-header-image](https://user-images.githubusercontent.com/48320037/157597185-cf8ae574-99ad-4ffa-af0b-46fc1dfe86e1.png)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iharnazarov" alt="iharnazarov" /> </p>
 
