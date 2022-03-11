@@ -18,6 +18,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iharnazarov&show_icons=true&theme=radical" alt="iharnazarov" /></p>
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IHARNAZAROV)
 <p align="center">
 <a href="https://codepen.io/iharnazarau" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="iharnazarau" height="30" width="30" /></a>
 <a href="https://twitter.com/tery_a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tery_a1" height="30" width="30" /></a>
