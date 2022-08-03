@@ -17,3 +17,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IHARNAZARAU&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/IHARNAZAROV?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=htiy960wi8fg2zu6r4wcj60hc&count=3)
